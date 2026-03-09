@@ -92,11 +92,11 @@ To bring the data to life, the Gold layer views were connected to **Power BI** t
 
 **Saeed Ahmed** *Data Analyst | SQL Developer | Data Engineering Enthusiast*
 
-I am a Data Analyst based in Gwadar, Pakistan, with a strong foundation in both technical data development and enterprise economics. With a Master's degree in Economics and 4 years of professional experience in the banking sector, I bring a unique, business-first perspective to data engineering and analytics. 
+I am a Data Analyst with a strong foundation in both technical data development and enterprise economics.I bring a unique, business-first perspective to data engineering and analytics. 
 
 I specialize in bridging the gap between raw, unstructured data and executive-level financial insights. This project reflects my passion for building scalable SQL architectures (Medallion & Kimball methodologies) and my ability to extract actionable KPIs—such as profitability, cost-to-revenue ratios, and market basket trends—that drive strategic business decisions.
 
 **Let's Connect!**
-* **LinkedIn:** [www.linkedin.com/in/saeed-ahmed-727067242]
+* **LinkedIn:** [www.linkedin.com/in/saeed-ahmed-baloch]
 * **GitHub:** [https://github.com/SaeedAhmed189](https://github.com/SaeedAhmed189)
 * **Email:** [saeedahmedmakrani@gmail.com]
