@@ -78,7 +78,7 @@ To bring the data to life, the Gold layer views were connected to **Power BI** t
 * `/datasets/`: Source CSV files.
 * `/scripts/`: Sequential T-SQL scripts to build and load the DW (00 to 05).
 * `/analytics/`: Advanced SQL queries (CTEs, Window Functions) answering critical business questions.
-* `/docs/`: Contains Power BI dashboard screenshots and project visualizations.
+* `/power_bi/`: Contains Power BI dashboard screenshots and project visualizations.
 * `Insight_Report.md`: Executive summary of findings based on the data.
 
 ## 🚀 How to Run
